@@ -1,11 +1,31 @@
-# 🚀 DeepAgent Desktop: The Future of Agentic Coding Has Arrived
+<div id="codellm-logo" align="center">
+    <br />
+    <img src="./codellm.svg" alt="CodeLLM Logo" width="200"/>
+    <h1>DeepAgent Desktop</h1>
+    <h4>Your All-In-One AI Platform</h4>
+</div>
 
-**DeepAgent Web now has a Desktop version!**  
-Meet **DeepAgent Desktop**—the next-generation agentic coding platform that’s redefining what’s possible for developers and teams. With a powerful CLI, Code Mode, and Chat Mode, DeepAgent Desktop brings browser-level automation and state-of-the-art coding capabilities right to your machine.
+<br>
 
-Whether you want to automate browser tasks, solve complex coding problems, or just supercharge your workflow, DeepAgent Desktop is your all-in-one solution.
+<div align = center>
 
----
+A powerful desktop AI assistant with agentic browsing, listening, coding CLI and editor.
+Automate all your work with state of the art AI and the most powerful agent in the world.
+
+
+[![Get Started Here]][GetStarted]
+
+https://deepagent-desktop.abacus.ai/
+
+
+</div>
+
+<br>
+<br>
+
+[Get Started Here]: https://img.shields.io/badge/Get_Started_Here-3391ed?style=for-the-badge
+[GetStarted]: https://deepagent-desktop.abacus.ai/
+
 
 ## 🏆 Benchmark-Proven: DeepAgent Desktop Outperforms Claude Code & Codex CLI
 
