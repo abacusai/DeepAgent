@@ -1,7 +1,7 @@
 <div id="codellm-logo" align="center">
     <br />
-    <img src="./codellm.svg" alt="CodeLLM Logo" width="200"/>
-    <h1>DeepAgent Desktop</h1>
+    <img src="./codellm.svg" alt="DeepAgent Logo" width="200"/>
+    <h1>DeepAgent</h1>
     <h4>Your All-In-One AI Platform</h4>
 </div>
 
@@ -9,7 +9,9 @@
 
 <div align = center>
 
-A powerful desktop AI assistant with agentic browsing, listening, coding CLI and editor.
+Abacus.AI DeepAgent is a powerful AI Super Assitant that is capable of automating all kinds of work that is available as a cloud service at https://deepagent.abacus.ai
+
+We have a companion desktop application and command line agent with agentic browsing, listening, coding CLI and editor.
 Automate all your work with state of the art AI and the most powerful agent in the world.
 
 
@@ -27,7 +29,7 @@ https://deepagent-desktop.abacus.ai/
 [GetStarted]: https://deepagent-desktop.abacus.ai/
 
 
-## 🏆 Benchmark-Proven: DeepAgent Desktop Outperforms Claude Code & Codex CLI
+## 🏆 Benchmark-Proven: DeepAgent Outperforms Claude Code & Codex CLI
 
 DeepAgent Desktop isn’t just another tool—it’s a **state-of-the-art (SOTA) agentic coding system**, as proven by the latest industry benchmarks.
 
@@ -37,7 +39,7 @@ On the rigorous [TerminalBench](https://www.tbench.ai/) leaderboard, DeepAgent D
 
 | Model                      | TerminalBench Score |
 |----------------------------|:------------------:|
-| **DeepAgent Desktop**      | **48.75%**         |
+| **DeepAgent Desktop**      | **50.5%**         |
 | Goose                      | 45.3%              |
 | Claude Code (Opus 4)       | 43.2%              |
 | Codex CLI (GPT 5)          | 42.8%              |
