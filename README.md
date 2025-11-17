@@ -17,7 +17,7 @@ Automate all your work with state of the art AI and the most powerful agent in t
 
 [![Get Started Here]][GetStarted]
 
-https://deepagent-desktop.abacus.ai/
+https://desktop.abacus.ai/
 
 
 </div>
@@ -26,21 +26,21 @@ https://deepagent-desktop.abacus.ai/
 <br>
 
 [Get Started Here]: https://img.shields.io/badge/Get_Started_Here-3391ed?style=for-the-badge
-[GetStarted]: https://deepagent-desktop.abacus.ai/
+[GetStarted]: https://desktop.abacus.ai/
 
 
 ## 🏆 Benchmark-Proven: DeepAgent Outperforms Claude Code & Codex CLI
 
-DeepAgent Desktop isn’t just another tool—it’s a **state-of-the-art (SOTA) agentic coding system**, as proven by the latest industry benchmarks.
+Abacus AI Deepagent Desktop isn’t just another tool—it’s a **state-of-the-art (SOTA) agentic coding system**, as proven by the latest industry benchmarks.
 
 ### TerminalBench: Top 3 Worldwide
 
-On the rigorous [TerminalBench](https://www.tbench.ai/) leaderboard, DeepAgent Desktop scored an incredible **48.75%**, outperforming Claude Code and Codex CLI, and securing a spot in the global top 3.
+On the rigorous [TerminalBench](https://www.tbench.ai/) leaderboard, Abacus AI Desktop scored an incredible **62.3%**, outperforming Claude Code and Codex CLI, and securing a spot in the global top 2.
 
 | Model                      | TerminalBench Score |
 |----------------------------|:------------------:|
-| **DeepAgent Desktop**      | **50.5%**         |
-| Goose                      | 45.3%              |
+| **Abacus AI Desktop**      | **62.3%**         |
+| Warp                       | 52%              |
 | Claude Code (Opus 4)       | 43.2%              |
 | Codex CLI (GPT 5)          | 42.8%              |
 | Claude Code (Sonnet 4)     | 35.5%              |
@@ -49,11 +49,11 @@ On the rigorous [TerminalBench](https://www.tbench.ai/) leaderboard, DeepAgent D
 
 ### SWE-bench Verified: Top 5 Worldwide
 
-On [SWE-bench Verified](https://www.swebench.com/), DeepAgent Desktop achieved a remarkable **74%**, again beating both Claude Code and Codex CLI.
+On [SWE-bench Verified](https://www.swebench.com/), Abacus AI Desktop achieved a remarkable **74%**, again beating both Claude Code and Codex CLI.
 
 | Model                      | SWE-bench Verified Score |
 |----------------------------|:-----------------------:|
-| **DeepAgent Desktop**      | **74%**                 |
+| **Abacus AI Desktop**      | **74%**                 |
 | Codex CLI (GPT 5)          | 72.8%                   |
 | Claude Code (Sonnet 4)     | 72.7%                   |
 | Claude Code (Opus 4)       | 72.5%                   |
@@ -61,12 +61,12 @@ On [SWE-bench Verified](https://www.swebench.com/), DeepAgent Desktop achieved a
 
 ---
 
-> “DeepAgent Desktop’s 48.75% on TerminalBench is not just a number—it’s a signal that the agentic coding landscape is changing fast. Beating Claude Code and Codex CLI is a huge achievement for any new product.”  
+> “Abacus AI Desktop’s 62.3% on TerminalBench is not just a number—it’s a signal that the agentic coding landscape is changing fast. Beating Claude Code and Codex CLI is a huge achievement for any new product.”  
 
 
-## 💡 Why DeepAgent Desktop?
+## 💡 Why AbacusAI Desktop?
 
-- **Multi-Model Orchestration:** DeepAgent Desktop intelligently switches between multiple SOTA models to maximize accuracy and speed.
+- **Multi-Model Orchestration:** Abacus AI Desktop intelligently switches between multiple SOTA models to maximize accuracy and speed.
 - **Agentic Reasoning:** Goes beyond code completion—plans, executes, and verifies complex tasks like a real developer.
 - **Beginner-Friendly:** Intuitive UI, step-by-step explanations, and helpful guidance for all skill levels.
 - **Seamless Terminal Integration:** Works in your terminal, with full support for all major shells and platforms.
@@ -88,10 +88,10 @@ We’re just getting started. Upcoming features include:
 ---
 
 **Ready to code smarter, automate faster, and experience the future of agentic development?**  
-Try DeepAgent Desktop today.
+Try Abacus AI Desktop today.
 
-[Learn more and get started →](https://deepagent-desktop.abacus.ai/)
+[Learn more and get started →](https://desktop.abacus.ai/)
 
 ---
 
-*DeepAgent Desktop: The world’s most advanced agentic coding platform—now on your desktop.*
+*Abacus AI Desktop: The world’s most advanced agentic coding platform—now on your desktop.*
